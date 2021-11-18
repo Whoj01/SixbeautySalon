@@ -46,5 +46,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 https://whoj01.github.io/SixbeautySalon/#home
 
+<br>
 
 
