@@ -44,10 +44,17 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 <br>
 
-### This App GH-Page 
+## This App GH-Page 
 
 https://whoj01.github.io/SixbeautySalon/#home
 
 <br>
+
+---
+ 
+<p>Feito com ❤️ por Josué Dias 👋🏽 Entre em contato!</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Josuedias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/josué-dias-271458224/)
+
 
 
